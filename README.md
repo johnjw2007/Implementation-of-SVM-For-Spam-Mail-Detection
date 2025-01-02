@@ -26,6 +26,7 @@ Developed by: John Wilfred Thomas J W
 RegisterNumber:  24013517
 */
 ```
+```
 import chardet
 with open('spam.csv','rb') as file:
     result = chardet.detect(file.read(10000))
@@ -59,7 +60,7 @@ y_pred
 from sklearn.metrics import accuracy_score
 acc=accuracy_score(y_test,y_pred)
 acc
-
+```
 ## Output:
 ![SVM For Spam Mail Detection](sam.png)
 ![image](https://github.com/user-attachments/assets/0192997a-4366-423e-860f-704b2719af06)
