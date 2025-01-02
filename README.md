@@ -62,7 +62,7 @@ acc=accuracy_score(y_test,y_pred)
 acc
 ```
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+
 ![image](https://github.com/user-attachments/assets/0192997a-4366-423e-860f-704b2719af06)
 ![image](https://github.com/user-attachments/assets/9d486766-3116-4d9f-a80a-924d939fe9d1)
 ![image](https://github.com/user-attachments/assets/76cd9698-53a0-4992-928b-f5b22421e5ef)
